@@ -51,7 +51,3 @@ Added the function challenge which took four variables `year`, `first team` and 
 
 ## Acknowledgments
 
- - Collaborators : My friend [Collins Kibiwot] - [@kibithegreat](https://github.com/kibiwotkosgei)
-                 : Charles Muia - GitHub - [Charles Muia ](https://github.com/Charles-Muia)
-                 : Zacharia Njiraini - GitHub - [Zacharia Njiraini ](https://github.com/maaszaxxs)
- 
